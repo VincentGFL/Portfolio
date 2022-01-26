@@ -1,0 +1,19 @@
+/*Style for main body*/
+body {
+    background-image: linear-gradient(to right,rgb(110, 158, 226), rgb(184, 197, 196));
+}
+
+.intro
+{
+    text-align: center;
+}
+
+.project1
+{
+    text-align: center;
+}
+
+img {
+    border: 5px solid rgb(241, 238, 238);
+    border-radius: 40%;
+  }
